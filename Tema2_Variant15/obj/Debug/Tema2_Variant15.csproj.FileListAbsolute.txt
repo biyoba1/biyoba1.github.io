@@ -1,0 +1,9 @@
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\bin\Debug\Tema2_Variant15.exe.config
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\bin\Debug\Tema2_Variant15.exe
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\bin\Debug\Tema2_Variant15.pdb
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.csproj.AssemblyReference.cache
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.Properties.Resources.resources
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.csproj.GenerateResource.cache
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.csproj.CoreCompileInputs.cache
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.exe
+C:\Users\232909071094-15\Desktop\Tema2_Variant15\Tema2_Variant15\obj\Debug\Tema2_Variant15.pdb
