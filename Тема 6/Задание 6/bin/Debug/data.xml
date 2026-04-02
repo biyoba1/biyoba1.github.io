@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+	<topic name="Города и памятники России">
+
+		<level id="1" name="Легкий (Известные)">
+			<question>
+				<image>images/moscow_kremlin.jpg</image>
+				<hint>Столица России, основана в 1147 году</hint>
+				<text>В каком городе находится этот памятник?</text>
+				<answers>
+					<answer right="yes">Москва</answer>
+					<answer right="no">Санкт-Петербург</answer>
+					<answer right="no">Казань</answer>
+					<answer right="no">Новосибирск</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/spb_bronze_horseman.jpg</image>
+				<hint>Город на Неве, культурная столица России</hint>
+				<text>Где расположен этот памятник?</text>
+				<answers>
+					<answer right="yes">Санкт-Петербург</answer>
+					<answer right="no">Москва</answer>
+					<answer right="no">Петергоф</answer>
+					<answer right="no">Пушкин</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/vladimir_golden_gate.jpg</image>
+				<hint>Древний город Золотого кольца с белокаменными воротами</hint>
+				<text>Назовите город</text>
+				<answers>
+					<answer right="yes">Владимир</answer>
+					<answer right="no">Суздаль</answer>
+					<answer right="no">Ярославль</answer>
+					<answer right="no">Ростов Великий</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/kazan_kremlin.jpg</image>
+				<hint>Столица Татарстана, где встречаются две культуры</hint>
+				<text>В каком городе находится эта достопримечательность?</text>
+				<answers>
+					<answer right="yes">Казань</answer>
+					<answer right="no">Уфа</answer>
+					<answer right="no">Самара</answer>
+					<answer right="no">Оренбург</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/novosibirsk_opera.jpg</image>
+				<hint>Третий по населению город России, столица Сибири</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Новосибирск</answer>
+					<answer right="no">Екатеринбург</answer>
+					<answer right="no">Омск</answer>
+					<answer right="no">Красноярск</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/yekaterinburg_border.jpg</image>
+				<hint>Город на границе Европы и Азии, где была расстреляна царская семья</hint>
+				<text>В каком городе установлен этот памятник?</text>
+				<answers>
+					<answer right="yes">Екатеринбург</answer>
+					<answer right="no">Челябинск</answer>
+					<answer right="no">Пермь</answer>
+					<answer right="no">Тюмень</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/volgograd_mamaev.jpg</image>
+				<hint>Город-герой на Волге, место Сталинградской битвы</hint>
+				<text>Назовите город</text>
+				<answers>
+					<answer right="yes">Волгоград</answer>
+					<answer right="no">Ростов-на-Дону</answer>
+					<answer right="no">Саратов</answer>
+					<answer right="no">Астрахань</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/nizhny_novgorod_kremlin.jpg</image>
+				<hint>Город на слиянии Оки и Волги, бывший Горький</hint>
+				<text>В каком городе находится этот кремль?</text>
+				<answers>
+					<answer right="yes">Нижний Новгород</answer>
+					<answer right="no">Казань</answer>
+					<answer right="no">Самара</answer>
+					<answer right="no">Ярославль</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/sochi_olympic.jpg</image>
+				<hint>Город, где проходила Зимняя Олимпиада 2014 года</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Сочи</answer>
+					<answer right="no">Краснодар</answer>
+					<answer right="no">Новороссийск</answer>
+					<answer right="no">Анапа</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/kaliningrad_gate.jpg</image>
+				<hint>Самый западный город России, бывший Кёнигсберг</hint>
+				<text>В каком городе находятся эти ворота?</text>
+				<answers>
+					<answer right="yes">Калининград</answer>
+					<answer right="no">Санкт-Петербург</answer>
+					<answer right="no">Псков</answer>
+					<answer right="no">Великий Новгород</answer>
+				</answers>
+			</question>
+		</level>
+
+		<level id="2" name="Средний (Региональные)">
+			<question>
+				<image>images/suzdal_cathedral.jpg</image>
+				<hint>Маленький город Золотого кольца с множеством церквей</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Суздаль</answer>
+					<answer right="no">Владимир</answer>
+					<answer right="no">Иваново</answer>
+					<answer right="no">Кострома</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/yaroslavl_church.jpg</image>
+				<hint>Город Золотого кольца, основан Ярославом Мудрым</hint>
+				<text>В каком городе находится эта церковь?</text>
+				<answers>
+					<answer right="yes">Ярославль</answer>
+					<answer right="no">Владимир</answer>
+					<answer right="no">Суздаль</answer>
+					<answer right="no">Ростов</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/rostov_kremlin.jpg</image>
+				<hint>Один из древнейших городов России, известен своим кремлём</hint>
+				<text>Назовите город</text>
+				<answers>
+					<answer right="yes">Ростов Великий</answer>
+					<answer right="no">Ярославль</answer>
+					<answer right="no">Суздаль</answer>
+					<answer right="no">Переславль-Залесский</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/sergiev_posad.jpg</image>
+				<hint>Город Московской области с Троице-Сергиевой лаврой</hint>
+				<text>В каком городе находится этот монастырь?</text>
+				<answers>
+					<answer right="yes">Сергиев Посад</answer>
+					<answer right="no">Москва</answer>
+					<answer right="no">Владимир</answer>
+					<answer right="no">Дмитров</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/pskov_kremlin.jpg</image>
+				<hint>Древний город на реке Великой, бывшая Псковская республика</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Псков</answer>
+					<answer right="no">Великий Новгород</answer>
+					<answer right="no">Старая Русса</answer>
+					<answer right="no">Выборг</answer>
+				</answers>
+			</question>
+		</level>
+
+		<level id="3" name="Сложный (Малоизвестные)">
+			<question>
+				<image>images/veliky_novgorod.jpg</image>
+				<hint>Один из древнейших городов Руси, упоминается с 859 года</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Великий Новгород</answer>
+					<answer right="no">Псков</answer>
+					<answer right="no">Старая Русса</answer>
+					<answer right="no">Боровичи</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/pereslavl_zalessky.jpg</image>
+				<hint>Родина Александра Невского, стоит на берегу Плещеева озера</hint>
+				<text>В каком городе находится этот памятник?</text>
+				<answers>
+					<answer right="yes">Переславль-Залесский</answer>
+					<answer right="no">Суздаль</answer>
+					<answer right="no">Ростов</answer>
+					<answer right="no">Углич</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/uglich_church.jpg</image>
+				<hint>Город в Ярославской области, где погиб царевич Дмитрий</hint>
+				<text>Назовите город</text>
+				<answers>
+					<answer right="yes">Углич</answer>
+					<answer right="no">Ярославль</answer>
+					<answer right="no">Рыбинск</answer>
+					<answer right="no">Тутаев</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/kostroma_fire_tower.jpg</image>
+				<hint>Город, основанный Юрием Долгоруким, известен пожарной каланчой</hint>
+				<text>В каком городе находится эта каланча?</text>
+				<answers>
+					<answer right="yes">Кострома</answer>
+					<answer right="no">Иваново</answer>
+					<answer right="no">Ярославль</answer>
+					<answer right="no">Владимир</answer>
+				</answers>
+			</question>
+
+			<question>
+				<image>images/plyos_volga.jpg</image>
+				<hint>Маленький городок на Волге, любимый художником Левитаном</hint>
+				<text>Назовите этот город</text>
+				<answers>
+					<answer right="yes">Плёс</answer>
+					<answer right="no">Кинешма</answer>
+					<answer right="no">Юрьевец</answer>
+					<answer right="no">Приволжск</answer>
+				</answers>
+			</question>
+		</level>
+
+	</topic>
+</quiz>

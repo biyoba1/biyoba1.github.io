@@ -13,8 +13,8 @@ namespace Task1
 {
     public partial class Form2 : Form
     {
-        private readonly string _url = "https://ydstvssozszyririptsi.supabase.co";
-        private readonly string _key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inlkc3R2c3NvenN6eXJpcmlwdHNpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMzNjUxOTQsImV4cCI6MjA4ODk0MTE5NH0.w8ZEsp8CPvvZPowUO92cFDtsPIPhnk3AVwi0ya2lAF4";
+        private readonly string _url = "https://cqgzksdbtwdngerwkdwp.supabase.co";
+        private readonly string _key = "sb_publishable_D4UrU0U27Pc58h7F9DNNFQ_-lGqZCFI";
         private HttpClient _httpClient;
         private bool _isRegisterMode = false;
         private string _selectedImagePath = null;

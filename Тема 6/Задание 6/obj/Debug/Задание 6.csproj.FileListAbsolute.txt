@@ -1,0 +1,9 @@
+C:\Учеба\РПМ\Задание 6\Задание 6\bin\Debug\Задание 6.exe.config
+C:\Учеба\РПМ\Задание 6\Задание 6\bin\Debug\Задание 6.exe
+C:\Учеба\РПМ\Задание 6\Задание 6\bin\Debug\Задание 6.pdb
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание 6.csproj.AssemblyReference.cache
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание_6.Properties.Resources.resources
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание 6.csproj.GenerateResource.cache
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание 6.csproj.CoreCompileInputs.cache
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание 6.exe
+C:\Учеба\РПМ\Задание 6\Задание 6\obj\Debug\Задание 6.pdb

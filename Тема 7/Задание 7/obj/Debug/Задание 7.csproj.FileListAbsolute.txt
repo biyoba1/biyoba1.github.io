@@ -1,0 +1,9 @@
+C:\Учеба\РПМ\Задание 7\Задание 7\bin\Debug\Задание 7.exe.config
+C:\Учеба\РПМ\Задание 7\Задание 7\bin\Debug\Задание 7.exe
+C:\Учеба\РПМ\Задание 7\Задание 7\bin\Debug\Задание 7.pdb
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание 7.csproj.AssemblyReference.cache
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание_7.Properties.Resources.resources
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание 7.csproj.GenerateResource.cache
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание 7.csproj.CoreCompileInputs.cache
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание 7.exe
+C:\Учеба\РПМ\Задание 7\Задание 7\obj\Debug\Задание 7.pdb

@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0440\u043F\u043C\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{560310BF-C24C-4129-8AB3-8EF7BEE16883}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u043D\u0438\u0435 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:05:48.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAiwE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:06:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.Designer.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:07:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Program.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Program.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:07:27.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "data.xml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "ViewState": "AgIAANUAAAAAAAAAAAAwwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-31T09:10:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Question.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Question.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Question.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:04:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLManager.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\XMLManager.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\XMLManager.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\XMLManager.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\XMLManager.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAqwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:03:52.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAPAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:06:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.Designer.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:06:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.Designer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.Designer.cs",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T08:59:14.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "data.xml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\data.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwPsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-31T09:04:33.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:02:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\GameForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:02:25.506Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0420\u041F\u041C\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T08:58:55.649Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

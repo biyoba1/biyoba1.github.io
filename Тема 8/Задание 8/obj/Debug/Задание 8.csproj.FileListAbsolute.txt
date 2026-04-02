@@ -1,0 +1,9 @@
+C:\Учеба\РПМ\Задание 8\Задание 8\bin\Debug\Задание 8.exe.config
+C:\Учеба\РПМ\Задание 8\Задание 8\bin\Debug\Задание 8.exe
+C:\Учеба\РПМ\Задание 8\Задание 8\bin\Debug\Задание 8.pdb
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание 8.csproj.AssemblyReference.cache
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание_8.Properties.Resources.resources
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание 8.csproj.GenerateResource.cache
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание 8.csproj.CoreCompileInputs.cache
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание 8.exe
+C:\Учеба\РПМ\Задание 8\Задание 8\obj\Debug\Задание 8.pdb
